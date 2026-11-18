@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uae-gold-price.vercel.app/sitemap.xml
